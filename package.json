@@ -55,7 +55,7 @@
     "node": ">=6.5.0"
   },
   "dependencies": {
-    "async": "2.6.0",
+    "async": "2.6.4",
     "awesome-module": "1.1.0",
     "axios": "^0.19.1",
     "composable-middleware": "0.3.0",
