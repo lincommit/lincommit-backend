@@ -63,7 +63,7 @@
     "deep-object-diff": "^1.1.0",
     "email-addresses": "3.0.1",
     "esn-elasticsearch-configuration": "^1.4.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "glob-all": "^3.2.1",
     "html-to-text": "5.1.1",
     "json2csv": "4.5.4",
