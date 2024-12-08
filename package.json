@@ -69,7 +69,7 @@
     "json2csv": "4.5.4",
     "lodash": "^4.17.15",
     "moment-business": "^3.0.1",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.5.8",
     "q": "1.4.1",
     "trim": "0.0.1",
